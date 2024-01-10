@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://youtube.com/@sapgv">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 <!--
 **sapgv/sapgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
