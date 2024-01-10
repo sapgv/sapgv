@@ -21,6 +21,19 @@
 
 Я senior iOS Developer из Екатеринбурга.
 
+
+<img src="https://img.shields.io/badge/Swift-4A154B"> <img src="https://img.shields.io/badge/UIKit-4A154B">
+<img src="https://img.shields.io/badge/Autolayout-4A154B">
+<img src="https://img.shields.io/badge/GCD-4A154B">
+<img src="https://img.shields.io/badge/CoreData-4A154B">
+<img src="https://img.shields.io/badge/Unit Testing-4A154B">
+<img src="https://img.shields.io/badge/MVVM-4A154B">
+<img src="https://img.shields.io/badge/MVP-4A154B">
+<img src="https://img.shields.io/badge/VIPER-4A154B">
+<img src="https://img.shields.io/badge/SOLID-4A154B">
+<img src="https://img.shields.io/badge/DRY-4A154B">
+
+
 # Хакатоны
 
 Участвую в хакатонах по мобильной разработке и не только.
