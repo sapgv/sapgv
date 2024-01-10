@@ -1,4 +1,9 @@
 
+# Привет, Меня зовут Григорий !
+---
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -19,7 +24,12 @@
 
 # iOS Developer
 
-Я senior iOS Developer из Екатеринбурга.
+<div align="left">
+  <p>Я Senior iOS Developer из Екатеринбурга. Разрабатываю мобильные приложения на Swift.</p>
+  
+</div>
+
+
 
 
 <img src="https://img.shields.io/badge/Swift-4A154B"> <img src="https://img.shields.io/badge/UIKit-4A154B">
@@ -36,7 +46,13 @@
 <img src="https://img.shields.io/badge/Firebase-4A154B">
 <img src="https://img.shields.io/badge/Fastlane-4A154B">
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 
+</p>
 
 # Хакатоны
 
