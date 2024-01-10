@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Autolayout-4A154B">
 <img src="https://img.shields.io/badge/GCD-4A154B">
 <img src="https://img.shields.io/badge/CoreData-4A154B">
+<img src="https://img.shields.io/badge/Realm-4A154B">
 <img src="https://img.shields.io/badge/Unit Testing-4A154B">
 <img src="https://img.shields.io/badge/MVVM-4A154B">
 <img src="https://img.shields.io/badge/MVP-4A154B">
