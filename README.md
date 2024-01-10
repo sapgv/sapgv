@@ -27,17 +27,17 @@
 
 ### ВТБ More Tech 5
 
-<a href="https://www.youtube.com/watch?v=nch32cmkifU">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-  <a href="https://github.com/sapgv/SatelliteBank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
+🏆 Вошли в топ 40 команд.
+ 
   
 - Мы разработали свое решение поиска отделение банка.
 - Наша главная фича контроль траффика отделения банка и экономия времени клиентов и сотрудников.
-- 🏆 Вошли в топ 40 команд.
-
+- <a href="https://www.youtube.com/watch?v=nch32cmkifU">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+- <a href="https://github.com/sapgv/SatelliteBank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 | Главный экран | Карточка отделения | Построение маршрута | Где потратить мультибонус |
 |----------------|:---------:|-----------------|:---------:|
 | <img src="https://github.com/sapgv/SatelliteBank/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/6.png" width="200"> |
