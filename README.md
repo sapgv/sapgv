@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/badge/VIPER-4A154B">
 <img src="https://img.shields.io/badge/SOLID-4A154B">
 <img src="https://img.shields.io/badge/DRY-4A154B">
+<img src="https://img.shields.io/badge/Firebase-4A154B">
+<img src="https://img.shields.io/badge/Fastlane-4A154B">
+
 
 
 # Хакатоны
