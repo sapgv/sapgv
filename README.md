@@ -73,7 +73,9 @@
 
 Участвую в хакатонах по мобильной разработке и не только.
 
-### ВТБ More Tech 5
+# ВТБ More Tech 5
+
+### Приложение ВТБ Рядом
 
 🏆 Вошли в топ 40 команд.
  
@@ -89,9 +91,9 @@
 |----------------|:---------:|-----------------|:---------:|
 | <img src="https://github.com/sapgv/SatelliteBank/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/6.png" width="200"> |
 
-### ВТБ ARCHITECH
+# ВТБ ARCHITECH
 
-# Приложение seeFOOD
+### Приложение seeFOOD
 
 Разработал демо приложения для заказа еды в ресторане
 
