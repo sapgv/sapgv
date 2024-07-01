@@ -90,7 +90,39 @@
 |----------------|:---------:|-----------------|:---------:|
 | <img src="https://github.com/sapgv/SatelliteBank/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/6.png" width="200"> |
 
+### ВТБ ARCHITECH
 
+# Приложение seeFOOD
+
+Разработал демо приложения для заказа еды в ресторане
+
+# [Ссылка на Видеопрезентацию](https://youtu.be/UI8JoG4dFC8)
+
+| Лого | Создание заказа | Список заказов | Детали заказа | Смена официантов | Администратор столиков | 
+|----------------|----------------|----------------|----------------|----------------|----------------|
+| <img src="https://github.com/sapgv/MobileRestaurant/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/3.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/4.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/6.png" width="200"> |
+
+### Реализованные фичи
+
+* Заказа еды внутри ресторана, на вынос или доставка
+* Возможность отслеживания статуса своего заказа
+* Изменение статуса заказа работником ресторана
+* Рабочее место официанта где можно смотреть свои заказы
+* Рабочее место администратора где можно смотреть свободные столики для посадки
+* Отображение смены официантов
+
+
+### Улучшения на будущее
+
+* Отображать время готовки, доставки заказа.
+
+* Сделать возможноть бронирования столика онлайн.
+
+* Сделать бонус сотрудникам которые собирают заказы для доставки
+
+* Сделать push оповещения для клиента и сотрудника ресторана
+
+* Сделать построение маршрута доставки по карте
 
 
 
