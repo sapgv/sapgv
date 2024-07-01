@@ -95,7 +95,12 @@
 
 Разработал демо приложения для заказа еды в ресторане
 
-# [Ссылка на Видеопрезентацию](https://youtu.be/UI8JoG4dFC8)
+- <a href="https://youtu.be/UI8JoG4dFC8">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+- <a href="https://github.com/sapgv/MobileRestaurant">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 | Лого | Создание заказа | Список заказов | Детали заказа | Смена официантов | Администратор столиков | 
 |----------------|----------------|----------------|----------------|----------------|----------------|
