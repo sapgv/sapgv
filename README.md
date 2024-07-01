@@ -23,7 +23,7 @@
 # iOS Developer
 
 <div align="left">
-  <p>Я Senior iOS Developer из Екатеринбурга. Разрабатываю мобильные приложения на Swift.</p>
+  <p>Я Senior iOS Developer из Екатеринбурга. Разрабатываю мобильные приложения на Swift и SwiftUI.</p>
 </div>
 
 <img src="https://img.shields.io/badge/Swift-4A154B"> <img src="https://img.shields.io/badge/UIKit-4A154B">
