@@ -95,7 +95,7 @@
 
 ### Приложение seeFOOD
 
-Разработал демо приложения для заказа еды в ресторане
+Разработал демо приложение для заказа еды в ресторане
 
 - <a href="https://youtu.be/UI8JoG4dFC8">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
