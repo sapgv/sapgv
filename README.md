@@ -13,9 +13,6 @@
   <a href="https://t.me/sapgv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-<a href="https://teletype.in/@sapgv/mentor">
-    <img src="https://img.shields.io/badge/Менторство-8A2BE2?style=for-the-badge&logoColor=white" alt="Teletype"/>
-  </a>
   
   
 </div>
