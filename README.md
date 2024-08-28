@@ -81,7 +81,10 @@
 
 ### Приложение seeFOOD
 
-Разработал демо приложение для заказа еды в ресторане
+В рамках хакатона ARCHI.Tech от ВТБ. Разработал демо приложение для заказа еды в ресторане
+
+# Стек
+SwiftUI
 
 - <a href="https://youtu.be/UI8JoG4dFC8">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
