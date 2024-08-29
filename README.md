@@ -50,6 +50,9 @@
   <p>Разработал мобильное приложение для учета личных финансов. Бэкенд сделан на 1С. В приложении можно вести доходы и расходы, а также учет денег выданных или полученных в долг. Реализовал синхронизацию с 1С. В 1С уже можно видеть развернутый отчет по различным аналитикам: кошельки, статьи расходов, статьи доходов и прочее.</p>
 </div>
 
+<a href="https://youtu.be/z5NFfrixwrU">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+
 | Главный экран | Расход | Мы дали в долг | 
 |----------------|:---------:|-----------------|
 | <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7758.PNG" width="200"> |  <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7759.PNG" width="200"> |  <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7760.PNG" width="200"> |
