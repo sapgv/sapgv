@@ -1,5 +1,5 @@
 
-# Привет, меня зовут Григорий !
+# Hello, I'm Grigory !
 ---
 
 <div align="center">
@@ -20,7 +20,7 @@
 # iOS Developer
 
 <div align="left">
-  <p>Я Senior iOS Developer из Екатеринбурга. Разрабатываю мобильные приложения на Swift и SwiftUI.</p>
+  <p>I am a Senior iOS Developer from Yekaterinburg. I develop mobile applications in Swift and SwiftUI.</p>
 </div>
 
 <img src="https://img.shields.io/badge/Swift-4A154B"> <img src="https://img.shields.io/badge/UIKit-4A154B">
@@ -44,47 +44,47 @@
 
 </p>
 
-# Собственные разработки
+# My apps
 
 <div align="left">
-  <p>Разработал мобильное приложение для учета личных финансов. Бэкенд сделан на 1С. В приложении можно вести доходы и расходы, а также учет денег выданных или полученных в долг. Реализовал синхронизацию с 1С. В 1С уже можно видеть развернутый отчет по различным аналитикам: кошельки, статьи расходов, статьи доходов и прочее.</p>
+  <p>Developed a mobile application for personal finance accounting. The backend is made on 1C. In the application, you can maintain income and expenses, as well as keep track of money issued or borrowed. Implemented synchronization with 1C. In 1C you can already see a detailed report on various analytics: wallets, expense items, income items, etc.</p>
 </div>
 
 <a href="https://youtu.be/z5NFfrixwrU">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
 
-| Главный экран | Расход | Мы дали в долг | 
+| Main screen | Expense | We lent | 
 |----------------|:---------:|-----------------|
 | <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7758.PNG" width="200"> |  <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7759.PNG" width="200"> |  <img src="https://github.com/sapgv/sapgv/blob/main/IMG_7760.PNG" width="200"> |
 
   
-# Хакатоны
+# Hackathons
 
-Участвую в хакатонах по мобильной разработке и не только.
+I participate in hackathons on mobile development and more.
 
 # ВТБ More Tech 5
 
-### Приложение ВТБ Рядом
+### App ВТБ Рядом
 
-🏆 Вошли в топ 40 команд.
+🏆 Entered the top 40 teams.
  
-- Мы разработали свое решение поиска отделения банка.
-- Наша главная фича контроль траффика отделения банка и экономия времени клиентов и сотрудников.
+- We have developed our own solution for finding a bank branch.
+- Our main feature is control of bank branch traffic and saving time for clients and employees.
 - <a href="https://www.youtube.com/watch?v=nch32cmkifU">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
 - <a href="https://github.com/sapgv/SatelliteBank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
-| Главный экран | Карточка отделения | Построение маршрута | Где потратить мультибонус |
+| Main screen | Branch card | Building a route | Where to spend the multibonus |
 |----------------|:---------:|-----------------|:---------:|
 | <img src="https://github.com/sapgv/SatelliteBank/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/SatelliteBank/blob/main/6.png" width="200"> |
 
 # ВТБ ARCHITECH
 
-### Приложение seeFOOD
+### App seeFOOD
 
-В рамках хакатона ARCHI.Tech от ВТБ. Разработал демо приложение для заказа еды в ресторане
+As part of the ARCHI.Tech hackathon from VTB. Developed a demo application for ordering food in a restaurant
 
 # Стек
 SwiftUI
@@ -96,31 +96,31 @@ SwiftUI
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 
-| Лого | Создание заказа | Список заказов | Детали заказа | Смена официантов | Администратор столиков | 
+| Logo | Create an order | List of orders | Order details | Change of waiters | Table administrator | 
 |----------------|----------------|----------------|----------------|----------------|----------------|
 | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/1.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/2.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/3.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/4.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/5.png" width="200"> | <img src="https://github.com/sapgv/MobileRestaurant/blob/main/6.png" width="200"> |
 
-### Реализованные фичи
+### Implemented features
 
-* Заказа еды внутри ресторана, на вынос или доставка
-* Возможность отслеживания статуса своего заказа
-* Изменение статуса заказа работником ресторана
-* Рабочее место официанта где можно смотреть свои заказы
-* Рабочее место администратора где можно смотреть свободные столики для посадки
-* Отображение смены официантов
+* Order food inside the restaurant, takeaway or delivery
+* Ability to track the status of your order
+* Changing the order status by a restaurant employee
+* Waiter's workplace where you can view your orders
+* Administrator's workplace where you can check available tables for seating
+* Display of waiter shifts
 
 
-### Улучшения на будущее
+### Improvements for the future
 
-* Отображать время готовки, доставки заказа.
+* Display cooking and order delivery times
 
-* Сделать возможноть бронирования столика онлайн.
+* Make it possible to book a table online
 
-* Сделать бонус сотрудникам которые собирают заказы для доставки
+* Give a bonus to employees who collect orders for delivery
 
-* Сделать push оповещения для клиента и сотрудника ресторана
+* Make push notifications for the client and restaurant employee
 
-* Сделать построение маршрута доставки по карте
+* Create a delivery route using the map
 
 
 
