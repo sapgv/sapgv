@@ -86,7 +86,7 @@ I participate in hackathons on mobile development and more.
 
 As part of the ARCHI.Tech hackathon from VTB. Developed a demo application for ordering food in a restaurant
 
-# Стек
+# Stack
 SwiftUI
 
 - <a href="https://youtu.be/UI8JoG4dFC8">
