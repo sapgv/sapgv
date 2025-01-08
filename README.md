@@ -46,6 +46,27 @@
 
 # Собственные разработки
 
+## SwiftCoreData
+
+[![Version](https://img.shields.io/cocoapods/v/SwiftCoreData.svg?style=flat)](https://cocoapods.org/pods/SwiftCoreData)
+[![License](https://img.shields.io/cocoapods/l/SwiftCoreData.svg?style=flat)](https://cocoapods.org/pods/SwiftCoreData)
+[![Platform](https://img.shields.io/cocoapods/p/SwiftCoreData.svg?style=flat)](https://cocoapods.org/pods/SwiftCoreData)
+  
+<div align="left">
+  <p>Разработал библиотеку для работы с CoreData.</p>
+  <p><a href="https://github.com/sapgv/SwiftCoreData">SwiftCoreData</a></p>
+  
+
+  ```ruby
+  pod 'SwiftCoreData'
+  ```
+
+  
+  
+</div>
+
+## IMoney
+
 <div align="left">
   <p>Разработал мобильное приложение для учета личных финансов. Бэкенд сделан на 1С. В приложении можно вести доходы и расходы, а также учет денег выданных или полученных в долг. Реализовал синхронизацию с 1С. В 1С уже можно видеть развернутый отчет по различным аналитикам: кошельки, статьи расходов, статьи доходов и прочее.</p>
 </div>
